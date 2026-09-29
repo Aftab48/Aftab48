@@ -40,7 +40,7 @@
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aftab48&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="streak.svg" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:ff416c&height=100&section=footer" width="100%" />
