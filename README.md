@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:7b2ff7&height=180&section=header&text=Aftab%20Alam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<a href="https://aftabalam.tech">
+<a href="https://aftabalam.in.net">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF416C&center=true&vCenter=true&width=600&lines=Building+Haemologix+%F0%9F%A9%B8;Healthcare+tech+that+ships;Full-stack+TypeScript+%2B+Python;Hackathons+on+weekends" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://aftabalam.tech"><img src="https://img.shields.io/badge/aftabalam.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://x.com/Prince_Manager_"><img src="https://img.shields.io/badge/@Prince__Manager__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://aftabalam.in.net"><img src="https://img.shields.io/badge/aftabalam.in.net-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Aftab48&style=for-the-badge&color=7b2ff7&label=views" />
 </p>
 
