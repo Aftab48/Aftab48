@@ -3,7 +3,7 @@
 <line x1="165" y1="28" x2="165" y2="170" stroke="#e4e2e2" stroke-width="1"/>
 <line x1="330" y1="28" x2="330" y2="170" stroke="#e4e2e2" stroke-width="1"/>
 <g text-anchor="middle">
-<text x="82.5" y="79" fill="#70a5fd" font-size="28" font-weight="700">1,812</text>
+<text x="82.5" y="79" fill="#70a5fd" font-size="28" font-weight="700">1,823</text>
 <text x="82.5" y="116" fill="#70a5fd" font-size="14">Total Contributions</text>
 <text x="82.5" y="145" fill="#38bdae" font-size="12">Aug 21, 2022 - Present</text>
 <circle cx="247.5" cy="71" r="40" fill="none" stroke="#70a5fd" stroke-width="5"/>
