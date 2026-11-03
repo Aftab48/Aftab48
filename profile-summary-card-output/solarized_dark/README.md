@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Aftab48/Aftab48/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
